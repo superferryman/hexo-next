@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: ÎÞÃûÐ¡Õ¾
 subtitle:
 description:
-author: John Doe
+author: Superferryman
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+#since: 2018
 
 # icon between year and author @Footer
 authoricon: heart
@@ -255,7 +255,7 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
+  position: right
   #position: right
 
   # Sidebar Display, available value:
@@ -352,7 +352,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night bright
 
 
 # ---------------------------------------------------------------
