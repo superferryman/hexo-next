@@ -20,6 +20,11 @@ NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来
 
 欢迎提交问题与需求，修复代码。
 
+## 使用方法 
+
+``` bash
+$ git clone https://github.com/superferryman/hexo-next.git themes/next
+```
 
 ## 开发 Development
 
